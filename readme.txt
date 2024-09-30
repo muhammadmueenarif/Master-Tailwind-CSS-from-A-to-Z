@@ -1,7 +1,7 @@
-It is similar to bootstrap. What we learned before in css was vanilla css. in which we use custom css. 
+Lecture 01. It is similar to bootstrap. What we learned before in css was vanilla css. in which we use custom css. 
 Tailwind saves time. 
 
-Overview of Tailwind
+Lecture 02. Overview of Tailwind
 Copy cdn link form tailwind or learn how to install tailwind.
 
 if we want to give color we will give class in this way: text-red-500 (first tell the color of text and then 
@@ -14,3 +14,16 @@ m-10 will give margin of 10 on each side. if we want only x oy y margin we can u
 similarly p-10 will give padding of 10 on each side. if we want only x y margin we can use p-x, p-y.
 
 to do something flex, we will simply use flex class.
+
+
+Lecture 03. install tailwind using npm.
+goto tailwind website, copy commands and install. this will install node modules and create tailwind.config.js file
+Then goto package.json file and add the following code in it.
+ "scripts": {
+    "start": "vite"
+  },
+   "dependencies": {
+    "vite":"^2.8.6"
+  }
+
+  Next open tailwind.config.js file and write * in the content[].
