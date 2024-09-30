@@ -53,6 +53,7 @@ Lec 08. Font weight and Style.
 font-normal, medium, bold. font-black, and then font-thin is for smaller. We can give font style like font-italic, 
 sans-serif, serif etc.,
 
+
 Lec 09. Line Spacing
 tracking-tight, tighter, normal, wide, wider, widest etc., it is for letter Spacing. for line spacing, we use 
 leading property. leading is from 0 to 10. leading snug, and loose.
@@ -60,3 +61,12 @@ if we have list, list-disc will give points/bullets, and list-decimal will give 
 margin if the list is not showing.
 next we have list inside, it will give something like margin type and show inside but if we use list outside
 it will give margin outside and show at the start.
+
+
+Lec 10. Text capatalize and uppercase. 
+if we use uppercase it will make all text capital but if we use capatalize, it will make first letter of each 
+word capital. lowercase will give all in small letters. if text is going outside the box, means overflowing, 
+we will use truncate property. this will show the text until it is not overflowing in width and height. 
+if i use overflow-hidden, it will not show the overflowing text. overflow-auto will show scroll line. there are 
+many other properties of overflow like visible, scroll, overflow x, overflow y etc., 
+
