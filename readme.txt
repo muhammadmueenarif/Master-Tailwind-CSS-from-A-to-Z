@@ -42,6 +42,9 @@ Then goto package.json file and add the following code in it.
  Lec 06. Width and Height.
  we have min width height and max width height.  w-1/3 will take one third of screen. w-full give full width
  and w-fit will give fit. we can also give 2/5, 2/6 and so on. 
- min-w-fit, max-w-6xl. we can use minimum and maximum width and height this way. max-w-lg.  
+ min-w-fit, max-w-6xl. we can use minimum and maximum width and height this way. max-w-lg. 
 
+
+ Lec 07. Font Size 
+text-lg for large text and xl for xtra large. text-base is by default size and sm for small and xs.
 
