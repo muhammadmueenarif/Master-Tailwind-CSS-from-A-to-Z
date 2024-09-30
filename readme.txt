@@ -28,9 +28,20 @@ Then goto package.json file and add the following code in it.
 
   Next open tailwind.config.js file and write * in the content[].
 
+
   Lec 04. Why we use tailwind?
   Largely used and we don't need to reuse classes. and template is not removed. 
 
+
   Lec 05. Margin and Padding
   mx and my and px, py. space-x-3 class will give space b/w multiple items. flex-row-reverse will reverse.
- space-x-reverse will give space in reverse if we are using fle-reverse. 
+ space-x-reverse will give space in reverse if we are using fle-reverse.
+  we also have mt for margin top and mb for margin bottom and similar pt, pb for padding.  
+
+
+ Lec 06. Width and Height.
+ we have min width height and max width height.  w-1/3 will take one third of screen. w-full give full width
+ and w-fit will give fit. we can also give 2/5, 2/6 and so on. 
+ min-w-fit, max-w-6xl. we can use minimum and maximum width and height this way. max-w-lg.  
+
+
