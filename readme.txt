@@ -79,3 +79,6 @@ decoration-1, or decoration-5 or which value we want to give.
 decoration from font.we can use decoration from font, it will give us the decoration from the font itself.
 
 Lec 12. Background in Tailwind CSS
+bg-gradient-to-r from-blue-600 to to-red-500. items-center and justify-center are used for centering using flex. 
+if we used Background, we can use bg-contain. bg-no-repeat. bg-repeat-x, bg-repeat-y. bg-center.bg-left-bottom.
+bg-scroll, bg-fixed, bg-scroll. 
