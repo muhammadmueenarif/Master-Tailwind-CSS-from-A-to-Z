@@ -78,7 +78,15 @@ we can also use double to give it double underline. if we want to give some more
 decoration-1, or decoration-5 or which value we want to give. 
 decoration from font.we can use decoration from font, it will give us the decoration from the font itself.
 
+
 Lec 12. Background in Tailwind CSS
 bg-gradient-to-r from-blue-600 to to-red-500. items-center and justify-center are used for centering using flex. 
 if we used Background, we can use bg-contain. bg-no-repeat. bg-repeat-x, bg-repeat-y. bg-center.bg-left-bottom.
 bg-scroll, bg-fixed, bg-scroll. 
+
+
+Lec 13. Borders in Tailwind CSS. 
+rounded will round the box. rounded-xl, -sm, -2xl, 3xl, rounded-full and so many. 
+
+Lec 14. Border Radius. 
+
