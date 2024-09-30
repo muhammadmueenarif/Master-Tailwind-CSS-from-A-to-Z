@@ -70,3 +70,12 @@ we will use truncate property. this will show the text until it is not overflowi
 if i use overflow-hidden, it will not show the overflowing text. overflow-auto will show scroll line. there are 
 many other properties of overflow like visible, scroll, overflow x, overflow y etc., 
 
+
+Lec 11. Text Decoration. 
+underline will give underline. text-red-500 will give color to text. text-justify will justify the content. 
+if we use underline and give it decoration-solid, wavy, dotted or dashes, it will look like that which we give. 
+we can also use double to give it double underline. if we want to give some more weight to underline, we can use
+decoration-1, or decoration-5 or which value we want to give. 
+decoration from font.we can use decoration from font, it will give us the decoration from the font itself.
+
+Lec 12. Background in Tailwind CSS
