@@ -27,3 +27,10 @@ Then goto package.json file and add the following code in it.
   }
 
   Next open tailwind.config.js file and write * in the content[].
+
+  Lec 04. Why we use tailwind?
+  Largely used and we don't need to reuse classes. and template is not removed. 
+
+  Lec 05. Margin and Padding
+  mx and my and px, py. space-x-3 class will give space b/w multiple items. flex-row-reverse will reverse.
+ space-x-reverse will give space in reverse if we are using fle-reverse. 
