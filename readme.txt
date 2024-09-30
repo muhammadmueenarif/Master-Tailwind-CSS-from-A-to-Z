@@ -52,3 +52,11 @@ text-lg for large text and xl for xtra large. text-base is by default size and s
 Lec 08. Font weight and Style.
 font-normal, medium, bold. font-black, and then font-thin is for smaller. We can give font style like font-italic, 
 sans-serif, serif etc.,
+
+Lec 09. Line Spacing
+tracking-tight, tighter, normal, wide, wider, widest etc., it is for letter Spacing. for line spacing, we use 
+leading property. leading is from 0 to 10. leading snug, and loose.
+if we have list, list-disc will give points/bullets, and list-decimal will give numbers. we will need to give 
+margin if the list is not showing.
+next we have list inside, it will give something like margin type and show inside but if we use list outside
+it will give margin outside and show at the start.
