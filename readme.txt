@@ -48,3 +48,7 @@ Then goto package.json file and add the following code in it.
  Lec 07. Font Size 
 text-lg for large text and xl for xtra large. text-base is by default size and sm for small and xs.
 
+
+Lec 08. Font weight and Style.
+font-normal, medium, bold. font-black, and then font-thin is for smaller. We can give font style like font-italic, 
+sans-serif, serif etc.,
