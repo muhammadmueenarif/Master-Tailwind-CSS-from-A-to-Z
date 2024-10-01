@@ -124,3 +124,8 @@ hover:bg-pink-500 and also we can use transition like ease in out and delay-100 
 similarly we can use active and focus but remove transition as it will not work. 
 
 Lec 20. Apply Directives 
+Apply Directives is just like when we give bg-red-500 class and it give red color so we can make our own this type of class 
+and give our own class.
+create style.css and import @tailwind base; @tailwind components; @tailwind utilities; and then make all your own 
+class. 
+.btn-blue { @apply bg-blue-500 text-white hover:bg-blue-600; }
