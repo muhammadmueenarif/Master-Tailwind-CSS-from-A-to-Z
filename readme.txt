@@ -117,3 +117,10 @@ we can also use order property to give order. like if one is at the first positi
 one will move to last order and all other will move one step behind. we can also give our own order like 2-3, 
 justify-center will center the content and align-center will center vertically. similarly all other css flex 
 propeties can be used here. space-between space-around space-evenly flex-start flex-end etc.,
+
+
+Lecture 19. Designing with Tailwind. Hover, focus and active styles. 
+hover:bg-pink-500 and also we can use transition like ease in out and delay-100 class. 
+similarly we can use active and focus but remove transition as it will not work. 
+
+Lec 20. Apply Directives 
