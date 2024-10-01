@@ -129,3 +129,6 @@ and give our own class.
 create style.css and import @tailwind base; @tailwind components; @tailwind utilities; and then make all your own 
 class. 
 .btn-blue { @apply bg-blue-500 text-white hover:bg-blue-600; }
+
+
+Lec 21. Landing Page using Tailwind
