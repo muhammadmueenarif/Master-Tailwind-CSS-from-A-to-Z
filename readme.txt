@@ -90,3 +90,9 @@ rounded will round the box. rounded-xl, -sm, -2xl, 3xl, rounded-full and so many
 
 Lec 14. Border Radius in Tailwind CSS. 
 border-4 will set boreder length. border-yellow-400 is color. border-double will give double line border. 
+
+
+Lec 15. Divider in Tailwind CSS.
+If we have multiple boxes in one box so we can divide them using this. divide-x-2 will divide in x axis and similarly divide-y will divide in 
+y-axis. if we want to give color between divide we can give it as divide-green-500. we can also use divide dotted 
+divide dashed and other like this. 
