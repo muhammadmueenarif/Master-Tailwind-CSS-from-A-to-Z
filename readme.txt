@@ -109,3 +109,11 @@ Lec 17. Opacity and Box shadow
 we can give shadow by shadow-lg, xl, sm etc.,, shadow-red-600/60 will give shade.
 
 Lec 18. Flex box with Tailwind CSS
+in grid, we can use both but in flex, we can use only one horizontal or vertical. we can increase size of boxes 
+using basis-16, 32 and the number which we want. row-reverse will reverse. flex-col will convert to column. 
+flex-wrap will will wrap on small screen and nowrap will not wrap. grow property is used to give width to each box 
+if we are using flex. and h will give height. 
+we can also use order property to give order. like if one is at the first position and we give it order-last and 
+one will move to last order and all other will move one step behind. we can also give our own order like 2-3, 
+justify-center will center the content and align-center will center vertically. similarly all other css flex 
+propeties can be used here. space-between space-around space-evenly flex-start flex-end etc.,
