@@ -2,7 +2,7 @@ Lecture 01. It is similar to bootstrap. What we learned before in css was vanill
 Tailwind saves time. 
 
 Lecture 02. Overview of Tailwind
-Copy cdn link form tailwind or learn how to install tailwind.
+Copy cdn link form tailwind or learn how to install tailwind. tailwind is better than in ui than bootstrap.
 
 if we want to give color we will give class in this way: text-red-500 (first tell the color of text and then 
 other shows opacity and it will be given only in 100 not in 120 or 180 or anything like that ).
@@ -88,5 +88,5 @@ bg-scroll, bg-fixed, bg-scroll.
 Lec 13. Borders in Tailwind CSS. 
 rounded will round the box. rounded-xl, -sm, -2xl, 3xl, rounded-full and so many. 
 
-Lec 14. Border Radius. 
-
+Lec 14. Border Radius in Tailwind CSS. 
+border-4 will set boreder length. border-yellow-400 is color. border-double will give double line border. 
