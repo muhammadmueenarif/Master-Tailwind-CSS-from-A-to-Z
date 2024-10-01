@@ -96,3 +96,12 @@ Lec 15. Divider in Tailwind CSS.
 If we have multiple boxes in one box so we can divide them using this. divide-x-2 will divide in x axis and similarly divide-y will divide in 
 y-axis. if we want to give color between divide we can give it as divide-green-500. we can also use divide dotted 
 divide dashed and other like this. 
+
+Lec 16. Outline
+Border and outline works in same way but they are different. if we have box of 300px and give border of 20px, 
+it means total is now 320px. but outline is the outside area of box. it does not increase width of box. box will remain 300. 
+border works inside the box but outline works outside the box. 
+outline will give default black color outline but if we give color we use outline-pink-300. 
+outline offset will give some space between the box and outline and we can also use offset-8, 
+and outline-dotted, dashed etc.,
+
