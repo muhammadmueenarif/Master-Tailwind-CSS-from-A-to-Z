@@ -105,3 +105,7 @@ outline will give default black color outline but if we give color we use outlin
 outline offset will give some space between the box and outline and we can also use offset-8, 
 and outline-dotted, dashed etc.,
 
+Lec 17. Opacity and Box shadow
+we can give shadow by shadow-lg, xl, sm etc.,, shadow-red-600/60 will give shade.
+
+Lec 18. Flex box with Tailwind CSS
