@@ -132,3 +132,5 @@ class.
 
 
 Lec 21. Landing Page using Tailwind
+
+Lec 22. Final Project of Tailwind
